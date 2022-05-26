@@ -13,7 +13,7 @@ My though process
    //R=> GGTAC = GGUAC
    // P => I need to go through the dna sequence and replaced each T with U, 
    // my mind went to splitting the sting up, and then looping thorugh it
-   // passing in a values to get an rna value 
+   // passing in a values to get an rna value kk
 */
 
 function DNAtoRNA(dna) {
